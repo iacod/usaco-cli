@@ -1,0 +1,720 @@
+{
+    "2015-2016": {
+        "December": {
+            "Bronze": [
+                "current/data/paint_bronze_dec15.zip",
+                "current/data/speeding_bronze_dec15.zip",
+                "current/data/badmilk_bronze_dec15.zip"
+            ],
+            "Silver": [
+                "current/data/lightson_silver_dec15.zip",
+                "current/data/highcard_silver_dec15.zip",
+                "current/data/bcount_silver_dec15.zip"
+            ],
+            "Gold": [
+                "current/data/cardgame_gold_dec15.zip",
+                "current/data/feast_gold_dec15.zip",
+                "current/data/dream_gold_dec15.zip"
+            ],
+            "Platinum": [
+                "current/data/maxflow_platinum_dec15.zip",
+                "current/data/cardgame_platinum_dec15.zip",
+                "current/data/haybales_platinum_dec15.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/promote_bronze_jan16.zip",
+                "current/data/angry_bronze_jan16.zip",
+                "current/data/mowing_bronze_jan16.zip"
+            ],
+            "Silver": [
+                "current/data/angry_silver_jan16.zip",
+                "current/data/div7_silver_jan16.zip",
+                "current/data/gates_silver_jan16.zip"
+            ],
+            "Gold": [
+                "current/data/angry_gold_jan16.zip",
+                "current/data/radio_gold_jan16.zip",
+                "current/data/lightsout_gold_jan16.zip"
+            ],
+            "Platinum": [
+                "current/data/fortmoo_platinum_jan16.zip",
+                "current/data/mowing_platinum_jan16.zip",
+                "current/data/lightsout_platinum_jan16.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/pails_bronze_feb16.zip",
+                "current/data/cbarn_bronze_feb16.zip",
+                "current/data/balancing_bronze_feb16.zip"
+            ],
+            "Silver": [
+                "current/data/cbarn_silver_feb16.zip",
+                "current/data/balancing_silver_feb16.zip",
+                "current/data/pails_silver_feb16.zip"
+            ],
+            "Gold": [
+                "current/data/cbarn_gold_feb16.zip",
+                "current/data/cbarn2_gold_feb16.zip",
+                "current/data/fencedin_gold_feb16.zip"
+            ],
+            "Platinum": [
+                "current/data/balancing_platinum_feb16.zip",
+                "current/data/fencedin_platinum_feb16.zip",
+                "current/data/cbarn_platinum_feb16.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/diamond_bronze_open16.zip",
+                "current/data/bcs_bronze_open16.zip",
+                "current/data/reduce_bronze_open16.zip"
+            ],
+            "Silver": [
+                "current/data/reduce_silver_open16.zip",
+                "current/data/diamond_silver_open16.zip",
+                "current/data/closing_silver_open16.zip"
+            ],
+            "Gold": [
+                "current/data/split_gold_open16.zip",
+                "current/data/closing_gold_open16.zip",
+                "current/data/248_gold_open16.zip"
+            ],
+            "Platinum": [
+                "current/data/262144_platinum_open16.zip",
+                "current/data/bcs_platinum_open16.zip",
+                "current/data/landscape_platinum_open16.zip"
+            ]
+        }
+    },
+    "2016-2017": {
+        "December": {
+            "Bronze": [
+                "current/data/square_bronze_dec16.zip",
+                "current/data/blocks_bronze_dec16.zip",
+                "current/data/cowsignal_bronze_dec16.zip"
+            ],
+            "Silver": [
+                "current/data/haybales_silver_dec16.zip",
+                "current/data/citystate_silver_dec16.zip",
+                "current/data/moocast_silver_dec16.zip"
+            ],
+            "Gold": [
+                "current/data/moocast_gold_dec16.zip",
+                "current/data/checklist_gold_dec16.zip",
+                "current/data/lasers_gold_dec16.zip"
+            ],
+            "Platinum": [
+                "current/data/triangles_platinum_dec16.zip",
+                "current/data/team_platinum_dec16.zip",
+                "current/data/roboherd_platinum_dec16.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/notlast_bronze_jan17.zip",
+                "current/data/hps_bronze_jan17.zip",
+                "current/data/cowtip_bronze_jan17.zip"
+            ],
+            "Silver": [
+                "current/data/cowdance_silver_jan17.zip",
+                "current/data/hps_silver_jan17.zip",
+                "current/data/cowcode_silver_jan17.zip"
+            ],
+            "Gold": [
+                "current/data/bphoto_gold_jan17.zip",
+                "current/data/hps_gold_jan17.zip",
+                "current/data/cownav_gold_jan17.zip"
+            ],
+            "Platinum": [
+                "current/data/promote_platinum_jan17.zip",
+                "current/data/tallbarn_platinum_jan17.zip",
+                "current/data/subrev_platinum_jan17.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/crossroad_bronze_feb17.zip",
+                "current/data/circlecross_bronze_feb17.zip",
+                "current/data/cowqueue_bronze_feb17.zip"
+            ],
+            "Silver": [
+                "current/data/helpcross_silver_feb17.zip",
+                "current/data/maxcross_silver_feb17.zip",
+                "current/data/countcross_silver_feb17.zip"
+            ],
+            "Gold": [
+                "current/data/visitfj_gold_feb17.zip",
+                "current/data/nocross_gold_feb17.zip",
+                "current/data/circlecross_gold_feb17.zip"
+            ],
+            "Platinum": [
+                "current/data/mincross_platinum_feb17.zip",
+                "current/data/nocross_platinum_feb17.zip",
+                "current/data/friendcross_platinum_feb17.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/cownomics_bronze_open17.zip",
+                "current/data/art_bronze_open17.zip"
+            ],
+            "Silver": [
+                "current/data/cownomics_silver_open17.zip",
+                "current/data/where_silver_open17.zip",
+                "current/data/lostcow_bronze_open17.zip"
+            ],
+            "Gold": [
+                "current/data/cownomics_gold_open17.zip",
+                "current/data/art2_gold_open17.zip",
+                "current/data/pairup_silver_open17.zip"
+            ],
+            "Platinum": [
+                "current/data/art_platinum_open17.zip",
+                "current/data/grass_platinum_open17.zip",
+                "current/data/cowbasic_platinum_open17.zip"
+            ]
+        }
+    },
+    "2017-2018": {
+        "December": {
+            "Bronze": [
+                "current/data/billboard_bronze_dec17.zip",
+                "current/data/shuffle_bronze_dec17.zip",
+                "current/data/measurement_bronze_dec17.zip"
+            ],
+            "Silver": [
+                "current/data/homework_silver_dec17.zip",
+                "current/data/measurement_silver_dec17.zip",
+                "current/data/shuffle_silver_dec17.zip"
+            ],
+            "Gold": [
+                "current/data/piepie_gold_dec17.zip",
+                "current/data/barnpainting_gold_dec17.zip",
+                "current/data/hayfeast_gold_dec17.zip"
+            ],
+            "Platinum": [
+                "current/data/standingout_platinum_dec17.zip",
+                "current/data/pushabox_platinum_dec17.zip",
+                "current/data/greedy_platinum_dec17.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/billboard_bronze_jan18.zip",
+                "current/data/lifeguards_bronze_jan18.zip",
+                "current/data/outofplace_bronze_jan18.zip"
+            ],
+            "Silver": [
+                "current/data/lifeguards_silver_jan18.zip",
+                "current/data/rental_silver_jan18.zip",
+                "current/data/mootube_silver_jan18.zip"
+            ],
+            "Gold": [
+                "current/data/mootube_gold_jan18.zip",
+                "current/data/atlarge_gold_jan18.zip",
+                "current/data/spainting_gold_jan18.zip"
+            ],
+            "Platinum": [
+                "current/data/lifeguards_platinum_jan18.zip",
+                "current/data/atlarge_platinum_jan18.zip",
+                "current/data/sprinklers_platinum_jan18.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/teleport_bronze_feb18.zip",
+                "current/data/hoofball_bronze_feb18.zip",
+                "current/data/taming_bronze_feb18.zip"
+            ],
+            "Silver": [
+                "current/data/reststops_silver_feb18.zip",
+                "current/data/snowboots_silver_feb18.zip",
+                "current/data/teleport_silver_feb18.zip"
+            ],
+            "Gold": [
+                "current/data/snowboots_gold_feb18.zip",
+                "current/data/dirtraverse_gold_feb18.zip",
+                "current/data/taming_gold_feb18.zip"
+            ],
+            "Platinum": [
+                "current/data/slingshot_platinum_feb18.zip",
+                "current/data/newbarn_platinum_feb18.zip",
+                "current/data/gymnasts_platinum_feb18.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/tttt_bronze_open18.zip",
+                "current/data/milkorder_bronze_open18.zip",
+                "current/data/family_bronze_open18.zip"
+            ],
+            "Silver": [
+                "current/data/sort_silver_open18.zip",
+                "current/data/lemonade_silver_open18.zip",
+                "current/data/multimoo_silver_open18.zip"
+            ],
+            "Gold": [
+                "current/data/sort_gold_open18.zip",
+                "current/data/milkorder_gold_open18.zip",
+                "current/data/talent_gold_open18.zip"
+            ],
+            "Platinum": [
+                "current/data/sort_platinum_open18.zip",
+                "current/data/train_platinum_open18.zip",
+                "current/data/disrupt_platinum_open18.zip"
+            ]
+        }
+    },
+    "2018-2019": {
+        "December": {
+            "Bronze": [
+                "current/data/mixmilk_bronze_dec18.zip",
+                "current/data/blist_bronze_dec18.zip",
+                "current/data/backforth_bronze_dec18.zip"
+            ],
+            "Silver": [
+                "current/data/convention_silver_dec18.zip",
+                "current/data/convention2_silver_dec18.zip",
+                "current/data/mooyomooyo_silver_dec18.zip"
+            ],
+            "Gold": [
+                "current/data/dining_gold_dec18.zip",
+                "current/data/cowpatibility_gold_dec18.zip",
+                "current/data/teamwork_gold_dec18.zip"
+            ],
+            "Platinum": [
+                "current/data/balance_platinum_dec18.zip",
+                "current/data/itout_platinum_dec18.zip",
+                "current/data/gathering_platinum_dec18.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/shell_bronze_jan19.zip",
+                "current/data/sleepy_bronze_jan19.zip",
+                "current/data/guess_bronze_jan19.zip"
+            ],
+            "Silver": [
+                "current/data/planting_silver_jan19.zip",
+                "current/data/perimeter_silver_jan19.zip",
+                "current/data/mountains_silver_jan19.zip"
+            ],
+            "Gold": [
+                "current/data/poetry_gold_jan19.zip",
+                "current/data/sleepy_gold_jan19.zip",
+                "current/data/shortcut_gold_jan19.zip"
+            ],
+            "Platinum": [
+                "current/data/redistricting_platinum_jan19.zip",
+                "current/data/exercise_platinum_jan19.zip",
+                "current/data/tracking2_platinum_jan19.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/herding_bronze_feb19.zip",
+                "current/data/revegetate_bronze_feb19.zip",
+                "current/data/traffic_bronze_feb19.zip"
+            ],
+            "Silver": [
+                "current/data/herding_silver_feb19.zip",
+                "current/data/paintbarn_silver_feb19.zip",
+                "current/data/revegetate_silver_feb19.zip"
+            ],
+            "Gold": [
+                "current/data/cowland_gold_feb19.zip",
+                "current/data/dishes_gold_feb19.zip",
+                "current/data/paintbarn_gold_feb19.zip"
+            ],
+            "Platinum": [
+                "current/data/cowdate_platinum_feb19.zip",
+                "current/data/mooriokart_platinum_feb19.zip",
+                "current/data/mowing_platinum_feb19.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/factory_bronze_open19.zip",
+                "current/data/evolution_bronze_open19.zip"
+            ],
+            "Silver": [
+                "current/data/cowjump_silver_open19.zip",
+                "current/data/fenceplan_silver_open19.zip",
+                "current/data/buckets_bronze_open19.zip"
+            ],
+            "Gold": [
+                "current/data/walk_gold_open19.zip",
+                "current/data/balance_gold_open19.zip",
+                "current/data/leftout_silver_open19.zip"
+            ],
+            "Platinum": [
+                "current/data/escape_platinum_open19.zip",
+                "current/data/valleys_platinum_open19.zip",
+                "current/data/snakes_gold_open19.zip"
+            ]
+        }
+    },
+    "2019-2020": {
+        "December": {
+            "Bronze": [
+                "current/data/gymnastics_bronze_dec19.zip",
+                "current/data/whereami_bronze_dec19.zip",
+                "current/data/lineup_bronze_dec19.zip"
+            ],
+            "Silver": [
+                "current/data/moobuzz_silver_dec19.zip",
+                "current/data/meetings_silver_dec19.zip",
+                "current/data/milkvisits_silver_dec19.zip"
+            ],
+            "Gold": [
+                "current/data/pump_gold_dec19.zip",
+                "current/data/milkvisits_gold_dec19.zip",
+                "current/data/cowmbat_gold_dec19.zip"
+            ],
+            "Platinum": [
+                "current/data/pieaters_platinum_dec19.zip",
+                "current/data/snowcow_platinum_dec19.zip",
+                "current/data/treedepth_platinum_dec19.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/word_bronze_jan20.zip",
+                "current/data/photo_bronze_jan20.zip",
+                "current/data/race_bronze_jan20.zip"
+            ],
+            "Silver": [
+                "current/data/berries_silver_jan20.zip",
+                "current/data/loan_silver_jan20.zip",
+                "current/data/wormsort_silver_jan20.zip"
+            ],
+            "Gold": [
+                "current/data/time_gold_jan20.zip",
+                "current/data/threesum_gold_jan20.zip",
+                "current/data/boards_gold_jan20.zip"
+            ],
+            "Platinum": [
+                "current/data/cave_platinum_jan20.zip",
+                "current/data/nondec_platinum_jan20.zip",
+                "current/data/falling_platinum_jan20.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/triangles_bronze_feb20.zip",
+                "current/data/breedflip_bronze_feb20.zip",
+                "current/data/swap_bronze_feb20.zip"
+            ],
+            "Silver": [
+                "current/data/swap_silver_feb20.zip",
+                "current/data/triangles_silver_feb20.zip",
+                "current/data/clocktree_silver_feb20.zip"
+            ],
+            "Gold": [
+                "current/data/timeline_gold_feb20.zip",
+                "current/data/help_gold_feb20.zip",
+                "current/data/deleg_gold_feb20.zip"
+            ],
+            "Platinum": [
+                "current/data/deleg_platinum_feb20.zip",
+                "current/data/triangles_platinum_feb20.zip",
+                "current/data/help_platinum_feb20.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/socdist1_bronze_open20.zip",
+                "current/data/socdist2_bronze_open20.zip",
+                "current/data/tracing_bronze_open20.zip"
+            ],
+            "Silver": [
+                "current/data/socdist_silver_open20.zip",
+                "current/data/cereal_silver_open20.zip",
+                "current/data/moop_silver_open20.zip"
+            ],
+            "Gold": [
+                "current/data/haircut_gold_open20.zip",
+                "current/data/fcolor_gold_open20.zip",
+                "current/data/exercise_gold_open20.zip"
+            ],
+            "Platinum": [
+                "current/data/sprinklers2_platinum_open20.zip",
+                "current/data/exercise_platinum_open20.zip",
+                "current/data/circus_platinum_open20.zip"
+            ]
+        }
+    },
+    "2020-2021": {
+        "December": {
+            "Bronze": [
+                "current/data/prob1_bronze_dec20.zip",
+                "current/data/prob2_bronze_dec20.zip",
+                "current/data/prob3_bronze_dec20.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_dec20.zip",
+                "current/data/prob2_silver_dec20.zip",
+                "current/data/prob3_silver_dec20.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_dec20.zip",
+                "current/data/prob2_gold_dec20.zip",
+                "current/data/prob3_gold_dec20.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_dec20.zip",
+                "current/data/prob2_platinum_dec20.zip",
+                "current/data/prob3_platinum_dec20.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/prob1_bronze_jan21.zip",
+                "current/data/prob2_bronze_jan21.zip",
+                "current/data/prob3_bronze_jan21.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_jan21.zip",
+                "current/data/prob2_silver_jan21.zip",
+                "current/data/prob3_silver_jan21.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_jan21.zip",
+                "current/data/prob2_gold_jan21.zip",
+                "current/data/prob3_gold_jan21.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_jan21.zip",
+                "current/data/prob2_platinum_jan21.zip",
+                "current/data/prob3_platinum_jan21.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/prob1_bronze_feb21.zip",
+                "current/data/prob2_bronze_feb21.zip",
+                "current/data/prob3_bronze_feb21.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_feb21.zip",
+                "current/data/prob2_silver_feb21.zip",
+                "current/data/prob3_silver_feb21.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_feb21.zip",
+                "current/data/prob2_gold_feb21.zip",
+                "current/data/prob3_gold_feb21.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_feb21.zip",
+                "current/data/prob2_platinum_feb21.zip",
+                "current/data/prob3_platinum_feb21.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/prob1_bronze_open21.zip",
+                "current/data/prob2_bronze_open21.zip",
+                "current/data/prob3_bronze_open21.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_open21.zip",
+                "current/data/prob2_silver_open21.zip",
+                "current/data/prob3_silver_open21.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_open21.zip",
+                "current/data/prob2_gold_open21.zip",
+                "current/data/prob3_gold_open21.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_open21.zip",
+                "current/data/prob2_platinum_open21.zip",
+                "current/data/prob3_platinum_open21.zip"
+            ]
+        }
+    },
+    "2021-2022": {
+        "December": {
+            "Bronze": [
+                "current/data/prob1_bronze_dec21.zip",
+                "current/data/prob2_bronze_dec21.zip",
+                "current/data/prob3_bronze_dec21.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_dec21.zip",
+                "current/data/prob2_silver_dec21.zip",
+                "current/data/prob3_silver_dec21.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_dec21.zip",
+                "current/data/prob2_gold_dec21.zip",
+                "current/data/prob3_gold_dec21.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_dec21.zip",
+                "current/data/prob2_platinum_dec21.zip",
+                "current/data/prob3_platinum_dec21.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/prob1_bronze_jan22.zip",
+                "current/data/prob2_bronze_jan22.zip",
+                "current/data/prob3_bronze_jan22.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_jan22.zip",
+                "current/data/prob2_silver_jan22.zip",
+                "current/data/prob3_silver_jan22.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_jan22.zip",
+                "current/data/prob2_gold_jan22.zip",
+                "current/data/prob3_gold_jan22.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_jan22.zip",
+                "current/data/prob2_platinum_jan22.zip",
+                "current/data/prob3_platinum_jan22.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/prob1_bronze_feb22.zip",
+                "current/data/prob2_bronze_feb22.zip",
+                "current/data/prob3_bronze_feb22.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_feb22.zip",
+                "current/data/prob2_silver_feb22.zip",
+                "current/data/prob3_silver_feb22.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_feb22.zip",
+                "current/data/prob2_gold_feb22.zip",
+                "current/data/prob3_gold_feb22.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_feb22.zip",
+                "current/data/prob2_platinum_feb22.zip",
+                "current/data/prob3_platinum_feb22.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/prob1_bronze_open22.zip",
+                "current/data/prob2_bronze_open22.zip",
+                "current/data/prob3_bronze_open22.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_open22.zip",
+                "current/data/prob2_silver_open22.zip",
+                "current/data/prob3_silver_open22.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_open22.zip",
+                "current/data/prob2_gold_open22.zip",
+                "current/data/prob3_gold_open22.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_open22.zip",
+                "current/data/prob2_platinum_open22.zip",
+                "current/data/prob3_platinum_open22.zip"
+            ]
+        }
+    },
+    "2022-2023": {
+        "December": {
+            "Bronze": [
+                "current/data/prob1_bronze_dec22.zip",
+                "current/data/prob2_bronze_dec22.zip",
+                "current/data/prob3_bronze_dec22.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_dec22.zip",
+                "current/data/prob2_silver_dec22.zip",
+                "current/data/prob3_silver_dec22.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_dec22.zip",
+                "current/data/prob2_gold_dec22.zip",
+                "current/data/prob3_gold_dec22.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_dec22.zip",
+                "current/data/prob2_platinum_dec22.zip",
+                "current/data/prob3_platinum_dec22.zip"
+            ]
+        },
+        "January": {
+            "Bronze": [
+                "current/data/prob1_bronze_jan23.zip",
+                "current/data/prob2_bronze_jan23.zip",
+                "current/data/prob3_bronze_jan23.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_jan23.zip",
+                "current/data/prob2_silver_jan23.zip",
+                "current/data/prob3_silver_jan23.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_jan23.zip",
+                "current/data/prob2_gold_jan23.zip",
+                "current/data/prob3_gold_jan23.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_jan23.zip",
+                "current/data/prob2_platinum_jan23.zip",
+                "current/data/prob3_platinum_jan23.zip"
+            ]
+        },
+        "February": {
+            "Bronze": [
+                "current/data/prob1_bronze_feb23.zip",
+                "current/data/prob2_bronze_feb23.zip",
+                "current/data/prob3_bronze_feb23.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_feb23.zip",
+                "current/data/prob2_silver_feb23.zip",
+                "current/data/prob3_silver_feb23.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_feb23.zip",
+                "current/data/prob2_gold_feb23.zip",
+                "current/data/prob3_gold_feb23.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_feb23.zip",
+                "current/data/prob2_platinum_feb23.zip",
+                "current/data/prob3_platinum_feb23.zip"
+            ]
+        },
+        "Open": {
+            "Bronze": [
+                "current/data/prob1_bronze_open23.zip",
+                "current/data/prob2_bronze_open23.zip",
+                "current/data/prob3_bronze_open23.zip"
+            ],
+            "Silver": [
+                "current/data/prob1_silver_open23.zip",
+                "current/data/prob2_silver_open23.zip",
+                "current/data/prob3_silver_open23.zip"
+            ],
+            "Gold": [
+                "current/data/prob1_gold_open23.zip",
+                "current/data/prob2_gold_open23.zip",
+                "current/data/prob3_gold_open23.zip"
+            ],
+            "Platinum": [
+                "current/data/prob1_platinum_open23.zip",
+                "current/data/prob2_platinum_open23.zip",
+                "current/data/prob3_platinum_open23.zip"
+            ]
+        }
+    }
+}
