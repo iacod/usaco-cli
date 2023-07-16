@@ -11,3 +11,6 @@
 node_modules
 oclif.manifest.json
 /.data
+usaco.json
+/.vscode
+/.github
